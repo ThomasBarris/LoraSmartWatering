@@ -1,7 +1,7 @@
 
 
 
-![Picture](IMG_20170825_112047.jpg)# LoraSmartWatering
+# LoraSmartWatering
 
 Work in progress
 
