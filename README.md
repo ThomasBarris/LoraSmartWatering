@@ -1,4 +1,7 @@
-# LoraSmartWatering
+
+
+
+![Picture](IMG_20170825_112047.jpg)# LoraSmartWatering
 
 Work in progress
 
@@ -16,3 +19,5 @@ Work in progress
 
 plus an FTDI to program the Arduino, a lot of wires and some stuff from the DIY market for water
 
+## Picture of soldered parts
+![Picture](IMG_20170825_112047.jpg)
